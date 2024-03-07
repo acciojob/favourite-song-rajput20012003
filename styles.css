@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+#content {
+	text-align: center;
+	margin-top: 50px;
+}
